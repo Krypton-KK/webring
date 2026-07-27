@@ -38,5 +38,13 @@
     "git_acc": "https://github.com/sockyeh",
     "batch": "vitc cse 25-29",
     "desc": "backend dev, \"photographer\""
+  },
+  {
+    "id":"derpitron",
+    "name": "Derpitron",
+    "url": "https://5rupee.co.in",
+    "git_acc": "https://codeberg.org/derpitron",
+    "batch": "vitc ecm 24-28",
+    "desc": "Broad-edge calligraphy, programming, sysadministration, and polemics"
   }  
 ]
